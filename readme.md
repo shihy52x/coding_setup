@@ -27,4 +27,5 @@ alias ls="ls -G"
 ```
 
 
-# Step 2 
+# Step 2 vim theme for coding
+
